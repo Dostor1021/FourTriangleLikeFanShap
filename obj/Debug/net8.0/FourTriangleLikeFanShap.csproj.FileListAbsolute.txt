@@ -1,0 +1,14 @@
+C:\Users\aaa\source\Git\FourTriangleLikeFanShap\FourTriangleLikeFanShap\bin\Debug\net8.0\FourTriangleLikeFanShap.exe
+C:\Users\aaa\source\Git\FourTriangleLikeFanShap\FourTriangleLikeFanShap\bin\Debug\net8.0\FourTriangleLikeFanShap.deps.json
+C:\Users\aaa\source\Git\FourTriangleLikeFanShap\FourTriangleLikeFanShap\bin\Debug\net8.0\FourTriangleLikeFanShap.runtimeconfig.json
+C:\Users\aaa\source\Git\FourTriangleLikeFanShap\FourTriangleLikeFanShap\bin\Debug\net8.0\FourTriangleLikeFanShap.dll
+C:\Users\aaa\source\Git\FourTriangleLikeFanShap\FourTriangleLikeFanShap\bin\Debug\net8.0\FourTriangleLikeFanShap.pdb
+C:\Users\aaa\source\Git\FourTriangleLikeFanShap\FourTriangleLikeFanShap\obj\Debug\net8.0\FourTriangleLikeFanShap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaa\source\Git\FourTriangleLikeFanShap\FourTriangleLikeFanShap\obj\Debug\net8.0\FourTriangleLikeFanShap.AssemblyInfoInputs.cache
+C:\Users\aaa\source\Git\FourTriangleLikeFanShap\FourTriangleLikeFanShap\obj\Debug\net8.0\FourTriangleLikeFanShap.AssemblyInfo.cs
+C:\Users\aaa\source\Git\FourTriangleLikeFanShap\FourTriangleLikeFanShap\obj\Debug\net8.0\FourTriangleLikeFanShap.csproj.CoreCompileInputs.cache
+C:\Users\aaa\source\Git\FourTriangleLikeFanShap\FourTriangleLikeFanShap\obj\Debug\net8.0\FourTriangleLikeFanShap.dll
+C:\Users\aaa\source\Git\FourTriangleLikeFanShap\FourTriangleLikeFanShap\obj\Debug\net8.0\refint\FourTriangleLikeFanShap.dll
+C:\Users\aaa\source\Git\FourTriangleLikeFanShap\FourTriangleLikeFanShap\obj\Debug\net8.0\FourTriangleLikeFanShap.pdb
+C:\Users\aaa\source\Git\FourTriangleLikeFanShap\FourTriangleLikeFanShap\obj\Debug\net8.0\FourTriangleLikeFanShap.genruntimeconfig.cache
+C:\Users\aaa\source\Git\FourTriangleLikeFanShap\FourTriangleLikeFanShap\obj\Debug\net8.0\ref\FourTriangleLikeFanShap.dll
